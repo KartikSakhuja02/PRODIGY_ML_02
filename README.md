@@ -1,5 +1,4 @@
-Task 02 - Create a K-means clustering algorithm to group customers of a retail store based on their purchase history.
-Given Dataset: Customer Segmentation Data
+Dataset: Customer Segmentation Data
 
 K-means clustering algorithm: It’s an unsupervised machine learning approach where we aren’t trying to predict an outcome, but rather discover patterns in the dataset. The idea here is to find clusters in the data, meaning groups of data points that share some similarities. Unlike traditional machine learning algorithms, K-means doesn’t work on labeled data but instead learns the structure of the dataset through iterative steps.
 
